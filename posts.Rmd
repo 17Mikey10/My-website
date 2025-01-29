@@ -1,0 +1,9 @@
+---
+title: "My Posts"
+author: "Michail Tselios"
+output: distill::distill_article
+---
+
+## Posts
+
+In Chapter 4 of 'Building a Career in Data Science,' they discussed the importance of building a strong portfolio to showcase skills and projects. A personal website is an excellent way to centralize and present this portfolio, allowing potential employers to easily view and understand your capabilities. Creating a website would not only demonstrate my technical skills but also show my ability to communicate and present work in a professional, accessible way. I can upload my resume and also my projects that we have submitted in my classes.

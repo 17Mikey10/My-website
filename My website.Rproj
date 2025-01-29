@@ -1,0 +1,38 @@
+---
+title: "Welcome to My Website"
+author: "Michail Tselios"
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+## About Me
+
+I am currently a Masters student studying Business and Data Analytics at the university of Charleston. I am looking for a Summer Internship as a Data Analyst.
+
+## Experience
+
+1.) Data Analyst Intern, Coinbux (October 2024-December 2024)
+
+-Cleaning, preprocessing, and organizing raw data to ensure accuracy and consistency
+
+-Managing missing or incomplete data.
+
+-Analyzing data to identify trends, patterns, and correlations.
+
+-Interpreting results to provide actionable insights that support decision-making.
+
+2.) Hospital Readmission Project (December 2026)
+
+-Determined drivers of hospital readmission
+
+-Developed several models for hospital readmission rates
+
+-Established the best model for hospital readmission cases
+
+## Interests
+
+In my free time, I enjoy playing soccer or chess.
+
+------------------------------------------------------------------------
+
+Thank you for visiting my site!

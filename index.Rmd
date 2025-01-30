@@ -1,9 +1,11 @@
 ---
-title: "Welcome to My Website"
+title: "My Website"
 author: "Michail Tselios"
-date: "`r Sys.Date()`"
-output: distill::distill_article
+output:
+  html_document:
+    output_dir: "./"
 ---
+
 
 ## About Me
 
@@ -37,4 +39,4 @@ Check out my [Blog Posts](posts.html) for the assigment!
 
 ------------------------------------------------------------------------
 
-Thank you for visiting my site!
+Thank you for visiting my website!
